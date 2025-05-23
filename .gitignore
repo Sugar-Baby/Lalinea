@@ -37,6 +37,6 @@ ENV/
 # 日志
 *.log
 
-# 系统文件
+# 系统文件等
 .DS_Store
 Thumbs.db
